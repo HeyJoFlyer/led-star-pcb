@@ -1,0 +1,18 @@
+(footprint "Connector_WireSolderWirePad_1x01_SMD_2x4mm" (version 20221018) (generator pcbnew)
+  (layer "F.Cu")
+  (attr smd)
+  (fp_text reference "REF**" (at 2.5 -2.75 unlocked) (layer "F.SilkS") hide
+      (effects (font (size 1 1) (thickness 0.1)))
+    (tstamp bef19aa0-56da-4e3b-9ee8-21fd33462b2c)
+  )
+  (fp_text value "Connector_WireSolderWirePad_1x01_SMD_2x4mm" (at 0 1 unlocked) (layer "F.Fab")
+      (effects (font (size 1 1) (thickness 0.15)))
+    (tstamp 9b8d05a9-0380-4b2d-9c27-a9f8c1ead9d8)
+  )
+  (fp_text user "${REFERENCE}" (at 0 2.5 unlocked) (layer "F.Fab") hide
+      (effects (font (size 1 1) (thickness 0.15)))
+    (tstamp fa1a821a-84ef-46a2-b2da-fe5575a593a2)
+  )
+  (pad "1" smd roundrect (at 2 -1) (size 4 2) (layers "F.Cu" "F.Paste" "F.Mask") (roundrect_rratio 0.01)
+    (thermal_bridge_angle 45) (tstamp 5bcc9d3d-3fa3-4202-b414-a12a7c45e82f))
+)
