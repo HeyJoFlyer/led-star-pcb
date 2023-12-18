@@ -12,12 +12,12 @@ This repository contains the design files for an open-source LED star printed ci
 - square and star shaped pcbs (traced from scan of real star pcb)
 
 ## Versions:
--Scanned from original pcb:
-![alt text]("https://raw.githubusercontent.com/HeyJoFlyer/led-star-pcb/main/real StarPCB.jpg" "real StarPCB preview")
+- Scanned from original pcb:
+![alt text](https://github.com/HeyJoFlyer/led-star-pcb/blob/main/real%20StarPCB.jpg?raw=true "real StarPCB preview")
 - Square pcb:
-![alt text]("https://raw.githubusercontent.com/HeyJoFlyer/led-star-pcb/main/StarPCB.jpg" "square StarPCB preview")
+![alt text](https://github.com/HeyJoFlyer/led-star-pcb/blob/main/StarPCB.jpg?raw=true "square StarPCB preview")
 - Panelized Square pcb:
-![alt text]("https://raw.githubusercontent.com/HeyJoFlyer/led-star-pcb/main/StarPCB_panelized.jpg" "panelized square StarPCB preview")
+![alt text](https://github.com/HeyJoFlyer/led-star-pcb/blob/main/StarPCB_panelized.jpg?raw=true "panelized square StarPCB preview")
 
 ## Usage
 ### LED Star PCB
